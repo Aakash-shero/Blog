@@ -1,3 +1,7 @@
-body{
-    background: red;
+.primary-background{
+    background: #6a1b9a!important;
 }
+.jumbotron{
+     clip-path: ellipse(81% 47% at 67% 17%);
+ }
+
